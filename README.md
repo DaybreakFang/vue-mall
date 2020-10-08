@@ -1,4 +1,4 @@
-# vuemall2
+# vue-mall
 
 ## Project setup
 ```
